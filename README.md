@@ -1,2 +1,2 @@
-# Bike-sharing
-Linear regression project in R using bike sharing data 
+# Bike Sharing Data
+A linear regression project in R using bike sharing data. 
